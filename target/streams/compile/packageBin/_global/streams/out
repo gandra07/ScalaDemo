@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/gandra/Documents/Notes/GitHub/ScalaDemo/target/scala-2.13/scalademo_2.13-0.1.jar ...[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	HelloWorld.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gandra/Documents/Notes/GitHub/ScalaDemo/target/scala-2.13/classes/HelloWorld.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	HelloWorld$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gandra/Documents/Notes/GitHub/ScalaDemo/target/scala-2.13/classes/HelloWorld$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	combinations$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gandra/Documents/Notes/GitHub/ScalaDemo/target/scala-2.13/classes/combinations$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	combinations.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gandra/Documents/Notes/GitHub/ScalaDemo/target/scala-2.13/classes/combinations.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m[0J
